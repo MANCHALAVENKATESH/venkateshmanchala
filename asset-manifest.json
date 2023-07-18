@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/venkateshmanchala/static/css/main.5dd87cd2.css",
-    "main.js": "/venkateshmanchala/static/js/main.87fd346e.js",
+    "main.js": "/venkateshmanchala/static/js/main.57cbe658.js",
     "static/js/787.674770d0.chunk.js": "/venkateshmanchala/static/js/787.674770d0.chunk.js",
     "static/media/travel.png": "/venkateshmanchala/static/media/travel.3cb4249190d50828f578.png",
     "static/media/profile.jpeg": "/venkateshmanchala/static/media/profile.6a07c664502f83e5dbfb.jpeg",
@@ -11,11 +11,11 @@
     "static/media/client.png": "/venkateshmanchala/static/media/client.728cfc236b5cd420e576.png",
     "index.html": "/venkateshmanchala/index.html",
     "main.5dd87cd2.css.map": "/venkateshmanchala/static/css/main.5dd87cd2.css.map",
-    "main.87fd346e.js.map": "/venkateshmanchala/static/js/main.87fd346e.js.map",
+    "main.57cbe658.js.map": "/venkateshmanchala/static/js/main.57cbe658.js.map",
     "787.674770d0.chunk.js.map": "/venkateshmanchala/static/js/787.674770d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dd87cd2.css",
-    "static/js/main.87fd346e.js"
+    "static/js/main.57cbe658.js"
   ]
 }
