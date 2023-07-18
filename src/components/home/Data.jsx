@@ -58,7 +58,7 @@ const Data = () => {
             </h1>
             <h2 className='home__subtitle'>Full Stack Developer</h2>
             <p className='home__description'>Empowering businesses with innovative solutions and seamless user experiences.</p>
-            <button className='button button--flex' data-bs-toggle="modal" data-bs-target="#exampleModal">Schedul Call</button>
+            <button className='button button--flex' data-bs-toggle="modal" data-bs-target="#exampleModal">Schedule Call</button>
 
             <CalendarModal />
         </div>

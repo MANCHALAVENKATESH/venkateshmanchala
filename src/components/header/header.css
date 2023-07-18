@@ -97,7 +97,6 @@
         display: grid;
         grid-template-columns: repeat(3,1fr);
         gap: 2rem;
-        /* display: none; */
     }
     .nav__icon{
         font-size: 1.2rem;
@@ -116,11 +115,15 @@
         color: var(--title-color-dark);
     }
 
-    .nav__toggle{
+    .nav__toggle {
         font-size: 1.1rem;
         cursor: pointer;
-
-    }
+        position: fixed;
+        bottom: 1.5rem;
+        right: 1.5rem;
+        display: block;
+        z-index: 1; /* Adjust the z-index value as needed */
+      }
 
 
 
@@ -145,6 +148,13 @@
     .nav__list{
         column-gap: 0;
 
+    }
+    
+ }
+
+ @media screen and (max-width: 425px) {
+    .nav__toggle{
+        display: block;
     }
     
  }

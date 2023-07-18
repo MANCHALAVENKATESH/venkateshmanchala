@@ -30,7 +30,7 @@ const Contact = () => {
                             <h3 className="contact__card-title">Email</h3>
 
                             <span className="contact__card-data">manchalavenkatesh10@gmail.com</span>
-                            <a href="mailto:manchalavenkatesh10@gmail.com.com
+                            <a href="mailto:manchalavenkatesh10@gmail.com
                             " className="contact__button">Write me {" "}</a>
                             <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                         </div>
@@ -58,7 +58,7 @@ const Contact = () => {
                         </div>
                         <div className="contact__form-div">
                             <label  className="contact__form-tag">Email</label>
-                            <input type="email" name='email' className='contact__form-input' placeholder='Enter Your Name' />
+                            <input type="email" name='email' className='contact__form-input' placeholder='Enter Your Email Address' />
                         </div>
                         <div className="contact__form-div contact__form-area">
                             <label  className="contact__form-tag">Project</label>
