@@ -5,7 +5,7 @@ import travel from "../../assets/travel.png"
 import sleep from "../../assets/sleep.png"
 import tbot from "../../assets/tbot.jpeg"
 import diagnostic from "../../assets/diagnositc.png"
-
+import shoppingCartSystem from "../../assets/shopping.jpeg"
 
 
 export const projectsData = [
@@ -50,6 +50,12 @@ export const projectsData = [
         title: "Diagnostic Center",
         category: "php"
     },
+    {
+        id: 8,
+        work: shoppingCartSystem,
+        title: "Simple Shopping Cart System",
+        category: "php"
+    }
 ];
 
 export const projectsNav = [

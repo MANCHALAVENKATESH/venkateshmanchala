@@ -13,14 +13,14 @@ const Backend = () => {
                         <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills__name">PHP</h3>
-                            <span className="skills__level">Intermediate</span>
+                            <span className="skills__level">Advanced</span>
                         </div>
                     </div>
                     <div className="skills__data">
                         <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills__name">Node Js</h3>
-                            <span className="skills__level">Intermediate</span>
+                            <span className="skills__level">Advanced</span>
                         </div>
                     </div>
                     <div className="skills__data">

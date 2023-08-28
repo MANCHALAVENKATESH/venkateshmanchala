@@ -93,7 +93,7 @@ const Qualification = () => {
           className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Software Development Engineering and Test</h3>
+                <h3 className="qualification__title">Software Development Engineering</h3>
                 <span className="qualification__subtitle">
                   DarwinBox (HRMS)
                 </span>
