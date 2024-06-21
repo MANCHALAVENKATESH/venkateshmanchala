@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/venkateshmanchala/static/css/main.76ad6f60.css",
-    "main.js": "/venkateshmanchala/static/js/main.47e11b05.js",
+    "main.js": "/venkateshmanchala/static/js/main.58dfad22.js",
     "static/js/787.674770d0.chunk.js": "/venkateshmanchala/static/js/787.674770d0.chunk.js",
     "static/media/travel.png": "/venkateshmanchala/static/media/travel.3cb4249190d50828f578.png",
+    "static/media/VenkateshResume.pdf": "/venkateshmanchala/static/media/VenkateshResume.041009db57912faa3adb.pdf",
     "static/media/profile.jpeg": "/venkateshmanchala/static/media/profile.6a07c664502f83e5dbfb.jpeg",
     "static/media/sleep.png": "/venkateshmanchala/static/media/sleep.c14402208a2a9cbab45a.png",
-    "static/media/VenkateshResume.pdf": "/venkateshmanchala/static/media/VenkateshResume.7293b85dc57fa2716c6a.pdf",
     "static/media/document.png": "/venkateshmanchala/static/media/document.7ed812c1938e627b24ba.png",
     "static/media/client.png": "/venkateshmanchala/static/media/client.728cfc236b5cd420e576.png",
     "index.html": "/venkateshmanchala/index.html",
     "main.76ad6f60.css.map": "/venkateshmanchala/static/css/main.76ad6f60.css.map",
-    "main.47e11b05.js.map": "/venkateshmanchala/static/js/main.47e11b05.js.map",
+    "main.58dfad22.js.map": "/venkateshmanchala/static/js/main.58dfad22.js.map",
     "787.674770d0.chunk.js.map": "/venkateshmanchala/static/js/787.674770d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76ad6f60.css",
-    "static/js/main.47e11b05.js"
+    "static/js/main.58dfad22.js"
   ]
 }
